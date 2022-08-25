@@ -1,3 +1,10 @@
 home loan
 
+<<<<<<< .merge_file_waj1Rd
 personal loan
+=======
+
+
+
+vechile loan
+>>>>>>> .merge_file_wJRemz
